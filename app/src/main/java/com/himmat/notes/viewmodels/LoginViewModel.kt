@@ -1,11 +1,7 @@
 package com.himmat.notes.viewmodels
 
 import android.util.Log
-import android.widget.Toast
-import androidx.databinding.Bindable
-import androidx.databinding.Observable
 import androidx.databinding.ObservableField
-import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
 class LoginViewModel(): ViewModel() {

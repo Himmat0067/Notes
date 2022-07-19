@@ -4,8 +4,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.ViewModelProvider
-import androidx.lifecycle.ViewModelProviders
-import androidx.lifecycle.ViewModelStores
 import com.himmat.notes.databinding.ActivityLoginBinding
 import com.himmat.notes.viewmodels.LoginViewModel
 
